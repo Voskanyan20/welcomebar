@@ -5,7 +5,8 @@
   "dependencies": {
     "@wix/dashboard-sdk": "^3.53.0",
     "@wix/design-system": "^1.0.0",
-    "@wix/wix-ui-icons-common": "^3.0.34"
+    "@wix/wix-ui-icons-common": "^3.0.34",
+    "axios": "^1.6.0"
   },
   "devDependencies": {
     "@types/react": "^16.0.0",

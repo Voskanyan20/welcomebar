@@ -6,7 +6,8 @@
     "@wix/dashboard-sdk": "^3.53.0",
     "@wix/design-system": "^1.0.0",
     "@wix/wix-ui-icons-common": "^3.0.34",
-    "axios": "^1.6.0"
+    "axios": "^1.6.0",
+    "wix-cli": "^0.0.1"
   },
   "devDependencies": {
     "@types/react": "^16.0.0",

@@ -1,4 +1,9 @@
 {
   "id": "f90e5b28-b40b-4a28-8600-3b9713ce2794",
-  "title": "Custom Welcome Bar"
+  "title": "Custom Welcome Bar",
+  "sidebar": {
+    "whenActive": {
+      "hideSidebar": true
+    }
+  }
 }

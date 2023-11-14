@@ -1,4 +1,6 @@
 {
   "appId": "f90e5b28-b40b-4a28-8600-3b9713ce2794",
-  "projectId": "welcome-bar"
+  "projectId": "welcome-bar",
+  "siteId" : "f90e5b28-b40b-4a28-8600-3b9713ce2794",
+  "uiVersion" : "1.0.0"
 }
